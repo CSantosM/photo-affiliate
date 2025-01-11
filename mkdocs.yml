@@ -1,0 +1,98 @@
+site_name: Opionion cursos Kike Arnaiz
+site_url: https://opinioncursosfotografiakikearnaiz.com
+
+nav:
+  - Inicio: index.md
+  # - Cursos de programación:
+  #   - index.md
+  #   - posts/curso-composicion-fotografia.md
+  - ¿Quién es Kike Arnaiz?: kike-arnaiz.md
+  - Iniciacion a la fotografia: curso-fotografia-desde-cero.md
+  - Retoque fotográfico: curso-retoque-fotografico.md
+  - Composicion fotográfica: curso-composicion-fotografia.md
+  - Pack de cursos: pack-cursos-fotografia.md
+
+validation:
+  omitted_files: warn
+  absolute_links: warn
+  unrecognized_links: warn
+
+theme:
+  name: material
+  language: es
+  custom_dir: docs/overrides
+  features:
+    - content.code.copy
+    - content.tabs.link
+    - content.code.annotate
+    - content.tooltips
+    - navigation.tabs
+    - navigation.tracking
+    - navigation.footer
+    - navigation.top
+    - navigation.indexes
+    - announce.dismiss
+# plugins:
+# - blog:
+#     blog_dir: .
+#     blog_toc: false
+#     archive: false
+#     categories: false
+#     post_readtime: false
+
+markdown_extensions:
+  - admonition
+  - tables
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: '#'
+      permalink_title: Anchor link to this section for reference
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+      pygments_lang_class: true
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - pymdownx.snippets:
+      url_download: true
+      check_paths: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+extra:
+  analytics:
+    provider: google
+    property: !ENV GOOGLE_ANALYTICS_KEY
+  generator: false
+  social:
+    - icon: simple/github
+      link: https://github.com/OpenVidu
+    - icon: simple/x
+      link: https://x.com/openvidu
+    - icon: simple/medium
+      link: https://openvidu.medium.com/
+    - icon: simple/youtube
+      link: https://www.youtube.com/@openvidu
+  consent:
+    title: Cookie consent
+    description: >
+      This website uses cookies to ensure you get the best experience on our website.
+      <a href="/conditions/cookie-policy/" target="_blank">See cookie policy</a>
+    cookies:
+      analytics:
+        name: Google Analytics
+        checked: true
+
+extra_css:
+  - stylesheets/home.css
+
+copyright: >
+  2025 &copy; OpenVidu –
+  <a href="#__consent">Change cookie settings</a>

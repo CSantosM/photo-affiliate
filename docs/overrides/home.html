@@ -1,0 +1,54 @@
+{% extends "main.html" %} {% block tabs %} {{ super() }}
+
+<script defer>
+	window.setupWow();
+	window.webPreviousUrl = '';
+	if (!window.webObserver) {
+		window.webObserver = new MutationObserver(function (mutations) {
+			if (location.pathname !== window.webPreviousUrl) {
+				window.webPreviousUrl = location.pathname;
+				if (location.pathname === '/') {
+					// Home page
+					window.setupCardGlow();
+				}
+			}
+		});
+		window.webObserver.observe(document, {
+			subtree: true,
+			childList: true,
+		});
+	}
+</script>
+
+<section class="top-home-section md-grid md-typeset">
+	<div class="center-align">
+		<img
+			class="top-home-img"
+			src="assets/images/kike-bg.png"
+			draggable="false"
+		/>
+	</div>
+	<h1 class="slogan">{{config.site_description}}</h1>
+	<p class="home-description">
+		En esta web ...
+	</p>
+	<div class="home-buttons">
+		<a
+			title="Get started"
+			class="md-button md-button--primary"
+			onclick="event.stopPropagation(); window.scrollTo({ top: (document.getElementById('get-started').getBoundingClientRect().top + window.scrollY - 80), behavior: 'smooth' })"
+		>
+			See more
+		</a>
+		<a
+			href="{{ 'docs/getting-started/' | url }}"
+			title="Installation"
+			id="home-secondary-button"
+			class="md-button home-secondary-button"
+		>
+			Get started
+		</a>
+	</div>
+</section>
+
+{% endblock %}
