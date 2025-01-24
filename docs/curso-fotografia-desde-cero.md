@@ -1,10 +1,9 @@
 ---
 title: Iniciacion a la fotografia Kike Arnaiz
+description: Aprende fotografía desde cero con el curso de Kike Arnaiz. Domina tu cámara y los fundamentos de la fotografía con 17 clases y más de 5 horas de contenido original. Ideal para principiantes, incluye material descargable, acceso de por vida y masterclasses gratuitas. ¡Inscríbete ahora y transforma tu visión en imágenes espectaculares!
 hide:
   - navigation
 ---
-
-
 
 # Curso de Iniciación a la Fotografía: Aprende Fotografía Desde Cero con Kike Arnaiz
 
@@ -20,7 +19,7 @@ El principal objetivo de este curso es **capacitar a principiantes absolutos** p
 
 ## ¿Quién es Kike Arnaiz?
 
---8<-- "shared/kike-arnaiz.md"
+--8<-- "shared/kike-arnaiz-short.md"
 
 ## Ventajas y Desventajas del Curso
 
@@ -90,7 +89,6 @@ El curso de iniciación a la fotografía de Kike Arnaiz goza de numerosas buenas
 De lo que no hay duda es de que el curso es bueno y por ello, el **curso de Kike Arnaiz** ofrece una **garantía de devolución de dinero de 15 días**. Si por cualquier motivo no estás satisfecho con el contenido, podrás solicitar un reembolso completo sin complicaciones. Esta garantía nos da toda la tranquilidad para poder probar el curso sin ningún tipo de decepción.
 
 Esto nos hace confiar en la calidad del curso ya que muchos otros cursos online no ofrece este tipo de garantías.
-
 
 ## Precio de la formación
 
