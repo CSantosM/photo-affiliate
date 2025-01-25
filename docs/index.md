@@ -38,7 +38,7 @@ hide:
 </div>
 
 <div class="center-align" markdown>
-[Acceder al curso](https://pay.hotmart.com/Y33449953D?checkoutMode=10&ref=Q72693255I&bid=1737315981442){:target=\_blank .center-align .md-button .md-button--primary }
+[Acceder al curso](https://pay.hotmart.com/Y33449953D?checkoutMode=10&ref=Q72693255I&bid=1737315981442){:target=\_blank rel=nofollow .center-align .md-button .md-button--primary }
 [Ver opinion](./curso-fotografia-desde-cero.md){ .center-align .md-button }
 </div>
 
@@ -64,7 +64,7 @@ Además, en este nivel puedes acceder a un libro gatuito para poder conocer los
 
 
 <div class="center-align" markdown>
-[Acceder al curso](https://go.hotmart.com/C73473425B?ap=f00e){:target=\_blank .center-align .md-button .md-button--primary }
+[Acceder al curso](https://go.hotmart.com/C73473425B?ap=f00e){:target=\_blank rel=nofollow .center-align .md-button .md-button--primary }
 [Ver opinion](./curso-composicion-fotografia.md){ .center-align .md-button }
 </div>
 
@@ -84,7 +84,7 @@ Además, en este nivel puedes acceder a un libro gatuito para poder conocer los
 
 
 <div class="center-align" markdown>
-[Acceder al curso](https://go.hotmart.com/N73308232V?ap=6041){:target=\_blank .center-align .md-button .md-button--primary }
+[Acceder al curso](https://go.hotmart.com/N73308232V?ap=6041){:target=\_blank rel=nofollow .center-align .md-button .md-button--primary }
 [Ver opinion](./curso-fotografia-desde-cero.md){ .center-align .md-button }
 </div>
 
@@ -104,7 +104,7 @@ Además, en este nivel puedes acceder a un libro gatuito para poder conocer los
 
 
 <div class="center-align" markdown>
-[Acceder al curso](https://go.hotmart.com/S72706288H?ap=c2ac){:target=\_blank .center-align .md-button .md-button--primary }
+[Acceder al curso](https://go.hotmart.com/S72706288H?ap=c2ac){:target=\_blank rel=nofollow .center-align .md-button .md-button--primary }
 [Ver opinion](./curso-fotografia-desde-cero.md){ .center-align .md-button }
 </div>
 
@@ -125,7 +125,7 @@ Además, en este nivel puedes acceder a un libro gatuito para poder conocer los
 
 
 <div class="center-align" markdown>
-[Acceder al curso](https://go.hotmart.com/I72706179J?dp=1){:target=\_blank .center-align .md-button .md-button--primary }
+[Acceder al curso](https://go.hotmart.com/I72706179J?dp=1){:target=\_blank rel=nofollow .center-align .md-button .md-button--primary }
 [Ver opinion](./curso-fotografia-desde-cero.md){ .center-align .md-button }
 </div>
 

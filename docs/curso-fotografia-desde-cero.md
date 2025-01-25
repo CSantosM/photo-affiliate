@@ -9,7 +9,7 @@ hide:
 
 ¿Siempre has soñado con capturar momentos increíbles y transformar tu visión en imágenes espectaculares? **¡Esta es tu oportunidad perfecta!** El **curso de fotografía desde cero de Kike Arnaiz** está diseñado especialmente para ti, que deseas aprender de manera práctica y accesible, sin necesidad de equipo profesional avanzado.
 
-### [**¡Inscríbete Ahora y Comienza tu Transformación!**](https://go.hotmart.com/Q72693255I){:target=\_blank}
+### [**¡Inscríbete Ahora y Comienza tu Transformación!**](https://go.hotmart.com/Q72693255I){:target=\_blank rel=nofollow}
 
 <video width="640" height="480" src="../../../../assets/videos/iniciacion-fotografia.mp4" controls muted autoplay playsinline defer async loop></video>
 
@@ -82,7 +82,7 @@ El curso de iniciación a la fotografía de Kike Arnaiz goza de numerosas buenas
 
 </div>
 
-### [**Puedes ver más valoraciones del curso aquí**](https://go.hotmart.com/Q72693255I?dp=1#review){:target=\_blank}
+### [**Puedes ver más valoraciones del curso aquí**](https://go.hotmart.com/Q72693255I?dp=1#review){:target=\_blank rel=nofollow}
 
 ## Garantía del curso
 
@@ -94,7 +94,7 @@ Esto nos hace confiar en la calidad del curso ya que muchos otros cursos online 
 
 Este curso de fotografía desde cero se ofrece a un precio super económico. Por poco mas de 30€ puedes empezar a aprender fotografía desde cero de manera online y a tu ritmo.
 
-[Descubre el precio actualizado](https://go.hotmart.com/Q72693255I?ap=9d5e)
+[Descubre el precio actualizado](https://go.hotmart.com/Q72693255I?ap=9d5e){:target=\_blank rel=nofollow}
 
 ## Bonus de la formación
 
