@@ -14,15 +14,37 @@ jobs:
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-      - uses: actions/setup-python@v5
+
+      - name: Install yq
+        run: |
+          sudo wget https://github.com/mikefarah/yq/releases/latest/download/yq_linux_amd64 -O /usr/bin/yq && \
+          sudo chmod +x /usr/bin/yq
+
+      # Set up Python
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
           python-version: 3.x
-      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
-      - uses: actions/cache@v4
+
+      - name: Generate cache key
+        run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
+      - name: Restore or create cache for dependencies
+        uses: actions/cache@v4
         with:
           key: mkdocs-material-${{ env.cache_id }}
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material
-      - run: mkdocs gh-deploy --force
+
+      # Install MkDocs Material
+      - name: Install MkDocs Material
+        run: pip install mkdocs-material
+
+      # Set up Google Analytics key
+      - name: Build site with Google Analytics
+        run: |
+          yq eval '.extra.analytics.property = "${{ secrets.GOOGLE_ANALYTICS_KEY }}"' -i mkdocs.yml
+
+      # Deploy the site
+      - name: Deploy site
+        run: mkdocs gh-deploy --force
