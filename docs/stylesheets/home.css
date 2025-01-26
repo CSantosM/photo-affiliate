@@ -41,7 +41,8 @@
 }
 
 .md-img {
-	max-height: 300px !important;
+	max-height: 375px !important;
+	min-height: 375px !important;
 	text-align: center !important;
 	margin: auto !important;
 	display: block;

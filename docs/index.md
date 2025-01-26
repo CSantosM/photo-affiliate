@@ -38,7 +38,7 @@ hide:
 	- **Modos de Disparo, Enfoque y Medición**
 	- y mucho más ...
 
-![curso fotografia desde cero](../../assets/images/curso_iniciacion.jpg){ loading=lazy .round-corners .md-img}
+![curso fotografia desde cero](../../assets/images/curso_iniciacion_fotografia_kike_arnaiz.png){ loading=lazy .round-corners .md-img}
 
 </div>
 
