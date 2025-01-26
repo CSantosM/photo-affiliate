@@ -60,6 +60,8 @@ El **curso de fotografía de Kike Arnaiz** está diseñado para ofrecer una expe
 - **5 Horas de Contenido Original:** Aprende a tu propio ritmo con acceso ilimitado.
 - **Masterclasses Continuas:** Actualizaciones regulares y clases especiales impartidas por expertos.
 
+--8<-- "shared/download-free-book.md"
+
 ### [**Descubre más detalles sobre el temario del curso aquí**](https://www.kikearnaiz.com/curso-de-fotografia-digital?ref=Q72693255I#temariocursofotografia){:target=\_blank}
 
 ## Testimonios de alumnos
