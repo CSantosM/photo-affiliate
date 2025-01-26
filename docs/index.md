@@ -38,6 +38,7 @@ hide:
 	- **Modos de Disparo, Enfoque y Medición**
 	- y mucho más ...
 
+
 ![curso fotografia desde cero](../../assets/images/curso_iniciacion_fotografia_kike_arnaiz.png){ loading=lazy .round-corners .md-img}
 
 </div>
@@ -60,7 +61,7 @@ hide:
 
 	Bla bla bla
 
-![curso de composición a la fotografía](../../assets/images/curso_composicion.jpg){ loading=lazy .course-box-img .md-img}
+![curso de composición a la fotografía](../../assets/images/curso_composicion_fotografia_kike_arnaiz.png){ loading=lazy .course-box-img .md-img}
 
 </div>
 
@@ -81,7 +82,7 @@ hide:
 
 	Bla bla bla
 
-![curso fotografia desde cero](../../assets/images/curso_retrato.jpg){ loading=lazy .course-box-img .md-img}
+![curso fotografia desde cero](../../assets/images/curso_retoque_fotografico_kike_arnaiz.png){ loading=lazy .course-box-img .md-img}
 
 </div>
 
@@ -100,7 +101,7 @@ hide:
 
 	Bla bla bla
 
-![curso fotografia desde cero](../../assets/images/curso_retoque.jpg){ loading=lazy .course-box-img .md-img}
+![curso fotografia desde cero](../../assets/images/curso_retrato_fotografico_kike_arnaiz.png){ loading=lazy .course-box-img .md-img}
 
 </div>
 
@@ -121,7 +122,7 @@ hide:
 
 	Bla bla bla
 
-![curso fotografia desde cero](../../assets/images/pack_curso.jpeg){ loading=lazy .course-box-img .md-img}
+![curso fotografia desde cero](../../assets/images/curso_iniciacion_retoque_composicion_kike_arnaiz.png){ loading=lazy .course-box-img .md-img}
 
 </div>
 
