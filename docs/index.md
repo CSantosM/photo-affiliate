@@ -29,9 +29,14 @@ hide:
 
 <div class="grid cards no-border no-shadow courses-list" markdown>
 
--	:material-lock:{.feature-icon .middle } __Fotografía para principiantes__
+-	:material-lock:{.feature-icon .middle } __Curso online de iniciación a la fotografía__{.feature-name}
 
-	Este curso es la ideal para los que quieren comenzar a aprender fotografía online
+	El curso de fotografía desde cero de Kike Arnaiz es el **mejor curso relación calidad precio**. No solo por su temario completo si no por que además puedes **descargar el libro de iniciación** a la fotografía completamente gratis.
+	En este curso + libro se explican cosas como:
+
+	- **Elección de Equipo Fotográfico**
+	- **Modos de Disparo, Enfoque y Medición**
+	- y mucho más ...
 
 ![curso fotografia desde cero](../../assets/images/curso_iniciacion.jpg){ loading=lazy .round-corners .md-img}
 
@@ -42,8 +47,6 @@ hide:
 [Ver opinion](./curso-fotografia-desde-cero.md){ .center-align .md-button }
 </div>
 
-Además, en este nivel puedes acceder a un libro gatuito para poder conocer los
-
 
 --8<-- "shared/download-free-book.md"
 
@@ -53,7 +56,7 @@ Además, en este nivel puedes acceder a un libro gatuito para poder conocer los
 <!-- COMPOSICIÓN A LA FOTOGRAFIA -->
 <div class="grid cards no-border no-shadow" markdown>
 
--	:material-lock:{ .ov-call-commercial-icon .middle } __Curso composición a la fotografía__
+-	:material-lock:{ .feature-icon .middle } __Curso composición a la fotografía__{.feature-name}
 
 	Bla bla bla
 
@@ -74,7 +77,7 @@ Además, en este nivel puedes acceder a un libro gatuito para poder conocer los
 <!-- FOTOGRAFIA DE RETRATO -->
 <div class="grid cards no-border no-shadow" markdown>
 
--	:material-lock:{ .ov-call-commercial-icon .middle } __Curso fotografía de retrato__{ .ov-call-commercial-card-title }
+-	:material-lock:{ .feature-icon .middle } __Curso fotografía de retrato__{ .feature-name }
 
 	Bla bla bla
 
@@ -93,7 +96,7 @@ Además, en este nivel puedes acceder a un libro gatuito para poder conocer los
 <!-- RETOQUE FOTOGRÁFICO -->
 <div class="grid cards no-border no-shadow" markdown>
 
--	:material-lock:{ .ov-call-commercial-icon .middle } __Curso retoque fotográfico__{ .ov-call-commercial-card-title }
+-	:material-lock:{ .feature-icon .middle } __Curso retoque fotográfico__{ .feature-name }
 
 	Bla bla bla
 
@@ -114,7 +117,7 @@ Además, en este nivel puedes acceder a un libro gatuito para poder conocer los
 <!-- PACK FOTOGRÁFICO -->
 <div class="grid cards no-border no-shadow" markdown>
 
--	:material-lock:{ .ov-call-commercial-icon .middle } __Pack iniciacion + retoque + composición__
+-	:material-lock:{ .feature-icon .middle } __Pack iniciacion + retoque + composición__{.feature-name}
 
 	Bla bla bla
 
