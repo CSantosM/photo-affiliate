@@ -36,7 +36,8 @@ El principal objetivo de este curso es **capacitar a principiantes absolutos** p
 - **Requiere Disciplina Personal:** Al ser un curso online, necesitas comprometerte con tu propio ritmo de estudio.
 - **Enfoque Principal en Equipos Básicos:** No profundiza en equipos de alta gama, ideal para principiantes pero limitado para fotógrafos avanzados.
 
-### [**Aprovecha las Ventajas y Regístrate Hoy**](#)
+### [**Aprovecha las Ventajas y Regístrate Hoy**](https://go.hotmart.com/Q72693255I?dp=1){:target=\_blank rel=nofollow}
+
 
 ## Metodología del curso
 
@@ -62,7 +63,7 @@ El **curso de fotografía de Kike Arnaiz** está diseñado para ofrecer una expe
 
 --8<-- "shared/download-free-book.md"
 
-### [**Descubre más detalles sobre el temario del curso aquí**](https://www.kikearnaiz.com/curso-de-fotografia-digital?ref=Q72693255I#temariocursofotografia){:target=\_blank}
+### [**Descubre más detalles sobre el temario del curso aquí**](https://go.hotmart.com/Q72693255I?dp=1#tabs){:target=\_blank rel=nofollow}
 
 ## Testimonios de alumnos
 
