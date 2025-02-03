@@ -11,7 +11,7 @@ hide:
 
 ### [**¡Inscríbete Ahora y Comienza tu Transformación!**](https://go.hotmart.com/Q72693255I){:target=\_blank rel=nofollow}
 
-<video width="640" height="480" src="../../../../assets/videos/iniciacion-fotografia.mp4" controls muted autoplay playsinline defer async loop></video>
+<video width="640" height="480" src="https://opinioncursosfotografiakikearnaiz.com/assets/videos/iniciacion-fotografia.mp4" controls muted autoplay playsinline defer async loop></video>
 
 ## ¿Cuál es el objetivo del curso?
 
@@ -37,7 +37,6 @@ El principal objetivo de este curso es **capacitar a principiantes absolutos** p
 - **Enfoque Principal en Equipos Básicos:** No profundiza en equipos de alta gama, ideal para principiantes pero limitado para fotógrafos avanzados.
 
 ### [**Aprovecha las Ventajas y Regístrate Hoy**](https://go.hotmart.com/Q72693255I?dp=1){:target=\_blank rel=nofollow}
-
 
 ## Metodología del curso
 
