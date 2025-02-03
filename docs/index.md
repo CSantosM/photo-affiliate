@@ -132,7 +132,8 @@ hide:
 
 	**¡Incluye un regalo exclusivo!**
 
-	💎 15 presets de Lightroom valorados en 120€, totalmente gratis con tu inscripción.
+	💎 15 presets de Lightroom **valorados en 120€**, totalmente **gratis** con tu inscripción [aquí](https://go.hotmart.com/S72706288H){:target=\_blank rel=nofollow} :point_left:📸
+
 
 ![curso fotografia desde cero](../../assets/images/curso_retrato_fotografico_kike_arnaiz.png){ loading=lazy .course-box-img .md-img}
 
