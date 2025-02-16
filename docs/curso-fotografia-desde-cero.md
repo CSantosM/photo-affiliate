@@ -35,7 +35,6 @@ El **principal objetivo de este curso es capacitar a principiantes absolutos** p
 - **Requiere Disciplina Personal:** Al ser un curso online, necesitas comprometerte con tu propio ritmo de estudio.
 - **Enfoque Principal en Equipos Básicos:** No profundiza en equipos de alta gama, ideal para principiantes pero limitado para fotógrafos avanzados.
 
-### [**Aprovecha las Ventajas y Regístrate Hoy**](https://go.hotmart.com/Q72693255I?dp=1){:target=\_blank rel=nofollow}
 
 ## **Metodología del Curso de Iniciación a la Fotografía de Kike Arnaiz**
 

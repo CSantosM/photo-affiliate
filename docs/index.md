@@ -181,7 +181,7 @@ hide:
 ---
 
 
-¿Tabla comparativa de los cursos?
+<!-- ¿Tabla comparativa de los cursos? -->
 
 
 
