@@ -111,7 +111,7 @@ hide:
 
 
 <div class="center-align" markdown>
-[Ver más detalles](./curso-fotografia-desde-cero.md){ .center-align .md-button }
+[Ver más detalles](./curso-fotografia-retrato.md){ .center-align .md-button }
 [Acceder al curso](https://go.hotmart.com/N73308232V?ap=6041){:target=\_blank rel=nofollow .center-align .md-button .md-button--primary }
 </div>
 
