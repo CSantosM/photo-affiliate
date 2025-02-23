@@ -42,11 +42,14 @@ jobs:
           pip install mkdocs-material
           pip install mkdocs-minify-plugin
 
-
       # Set up Google Analytics key
       - name: Build site with Google Analytics
         run: |
           yq eval '.extra.analytics.property = "${{ secrets.GOOGLE_ANALYTICS_KEY }}"' -i mkdocs.yml
+
+      # Build MkDocs Site
+      - name: Build MkDocs Site
+        run: mkdocs build
 
       # Deploy the site
       - name: Deploy site
