@@ -48,39 +48,19 @@ Con Kike Arnaiz, no solo aprenderás teoría, sino que también obtendrás **té
 
 El **curso de retoque fotográfico de Kike Arnaiz** está diseñado para ofrecer una experiencia de aprendizaje completa y flexible. Además, este curso se mantiene **siempre actualizado** para enseñar las últimas **técnicas y tendencias en retoque fotográfico**.
 
-### **Contenido del Curso**
+## **¿Qué Aprenderás en este Curso?**
 
-#### **Curso de Lightroom Classic CC**
+Este curso te enseñará a **capturar retratos impactantes** con técnicas avanzadas de iluminación, dirección de modelos y edición profesional en **Lightroom y Photoshop**. Aprenderás a:
 
-1. **¿Por qué Lightroom?**
-2. **Catálogo e Importación**
-3. **La Biblioteca: Clasificación**
-4. **Organización de Archivos**
-5. **Ajustes Básicos del Módulo Revelar**
-6. **Retoques Avanzados y Correcciones Selectivas**
-7. **Edición de Color Avanzada con Curvas**
-8. **Trabajo con Múltiples Archivos en Lote**
-9. **Crea tus Propios Presets**
-10. **Conectividad de Lightroom y Exportación**
-11. **Práctica y Flujo de Trabajo**
-12. **Retoque Avanzado con Máscaras de Luminosidad**
+✅ **Dominar la iluminación** en estudio y exteriores.
+✅ **Mejorar la composición** y dirigir modelos con confianza.
+✅ **Editar como un profesional** con técnicas avanzadas de retoque.
+✅ **Optimizar tu flujo de trabajo** y crear presets personalizados.
+✅ **Monetizar tu fotografía** y atraer clientes.
 
-#### **Curso de Adobe Photoshop CC**
+🎯 **Descubre el contenido completo y accede al curso aquí:**
+👉 [📸 **Ver curso completo**](https://go.hotmart.com/S72706288H?dp=1#tabs)
 
-13. **Interfaz de Photoshop**
-14. **Tamaños y Formatos**
-15. **Los Pinceles y sus Ajustes**
-16. **El Maravilloso Mundo de las Capas**
-17. **Máscaras y su Gran Utilidad**
-18. **Capas de Ajuste**
-19. **Filtros y Objetos Inteligentes**
-20. **Transformar y Corregir Imágenes**
-21. **Herramientas de Selección**
-22. **Corrección de Piel, Logos e Imperfecciones**
-23. **Ajustes de Luz y Color en la Fotografía**
-24. **Los Modos de Fusión y su Utilidad Práctica**
-25. **Ajustes de Ruido y Enfoque**
-26. **Práctica de Fotomontaje**
 
 ### **Soporte y Modalidad**
 
