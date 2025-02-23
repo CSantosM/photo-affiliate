@@ -61,7 +61,7 @@ hide:
 <!-- COMPOSICIÓN A LA FOTOGRAFIA -->
 <div class="grid cards no-border no-shadow" markdown>
 
--	## __Curso composición a la fotografía__{ .feature-name }
+-	## __Curso composición fotográfica__{ .feature-name }
 
 	### ¡Transforma tus fotos con la magia de la composición fotográfica! 🎨📸
 
@@ -88,7 +88,7 @@ hide:
 ---
 
 
-<!-- FOTOGRAFIA DE RETRATO -->
+<!-- RETOQUE FOTOGRÁFICO -->
 <div class="grid cards no-border no-shadow" markdown>
 
 -	## __Curso retoque fotográfico__{ .feature-name }
@@ -105,19 +105,19 @@ hide:
 
 	💻 Acceso desde cualquier dispositivo
 
-![curso fotografia desde cero](../../assets/images/curso_retoque_fotografico_kike_arnaiz.png){ loading=lazy .course-box-img .md-img}
+![curso retoque fotográfico de kike arnaiz](../../assets/images/curso_retoque_fotografico_kike_arnaiz.png){ loading=lazy .course-box-img .md-img}
 
 </div>
 
 
 <div class="center-align" markdown>
-[Ver más detalles](./curso-fotografia-retrato.md){ .center-align .md-button }
-[Acceder al curso](https://go.hotmart.com/N73308232V?ap=6041){:target=\_blank rel=nofollow .center-align .md-button .md-button--primary }
+[Ver más detalles](./curso-retoque-fotografico.md){ .center-align .md-button }
+[Acceder al curso](https://go.hotmart.com/S72706288H?dp=1){:target=\_blank rel=nofollow .center-align .md-button .md-button--primary }
 </div>
 
 ---
 
-<!-- RETOQUE FOTOGRÁFICO -->
+<!-- FOTOGRAFÍA DE RETRATO -->
 <div class="grid cards no-border no-shadow" markdown>
 
 -	## __Curso fotografía de retrato__{ .feature-name }
@@ -132,18 +132,16 @@ hide:
 
 	**¡Incluye un regalo exclusivo!**
 
-	💎 15 presets de Lightroom **valorados en 120€**, totalmente **gratis** con tu inscripción [aquí](https://go.hotmart.com/S72706288H){:target=\_blank rel=nofollow} :point_left:📸
+	💎 15 presets de Lightroom **valorados en 120€**, totalmente **gratis** con tu inscripción [aquí](https://go.hotmart.com/N73308232V?ap=6041){:target=\_blank rel=nofollow} :point_left:📸
 
 
-![curso fotografia desde cero](../../assets/images/curso_retrato_fotografico_kike_arnaiz.png){ loading=lazy .course-box-img .md-img}
+![curso fotografia de retrato de kike arnaiz](../../assets/images/curso_retrato_fotografico_kike_arnaiz.png){ loading=lazy .course-box-img .md-img}
 
 </div>
 
-
-
 <div class="center-align" markdown>
-[Ver más detalles](./curso-fotografia-desde-cero.md){ .center-align .md-button }
-[Acceder al curso](https://go.hotmart.com/S72706288H?ap=c2ac){:target=\_blank rel=nofollow .center-align .md-button .md-button--primary }
+[Ver más detalles](./curso-fotografia-retrato.md){ .center-align .md-button }
+[Acceder al curso](https://go.hotmart.com/N73308232V?dp=1){:target=\_blank rel=nofollow .center-align .md-button .md-button--primary }
 </div>
 
 ---
@@ -166,14 +164,14 @@ hide:
 
 	💡 Incluye regalos exclusivos y descuentos especiales.
 
-![curso fotografia desde cero](../../assets/images/curso_iniciacion_retoque_composicion_kike_arnaiz.png){ loading=lazy .course-box-img .md-img}
+![pack de 3 cursos de fotografia de kike arnaiz](../../assets/images/curso_iniciacion_retoque_composicion_kike_arnaiz.png){ loading=lazy .course-box-img .md-img}
 
 </div>
 
 
 
 <div class="center-align" markdown>
-[Ver más detalles](./curso-fotografia-desde-cero.md){ .center-align .md-button }
+[Ver más detalles](./pack-cursos-fotografia.md){ .center-align .md-button }
 [Acceder al curso](https://go.hotmart.com/I72706179J?dp=1){:target=\_blank rel=nofollow .center-align .md-button .md-button--primary }
 </div>
 
