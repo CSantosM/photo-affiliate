@@ -34,7 +34,12 @@ theme:
     - navigation.top
     - navigation.indexes
     - announce.dismiss
-# plugins:
+plugins:
+  - search
+  - minify:
+      minify_html: true
+      minify_js: true
+      minify_css: true
 # - blog:
 #     blog_dir: .
 #     blog_toc: false
