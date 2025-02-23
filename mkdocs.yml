@@ -21,6 +21,8 @@ theme:
     primary: teal
     accent: teal
   name: material
+  logo: assets/images/logo.svg
+  favicon: assets/images/favicon.svg
   language: es
   custom_dir: docs/overrides
   features:
