@@ -1,0 +1,43 @@
+{% extends "main.html" %} {% block tabs %} {{ super() }}
+
+<section class="top-home-section md-grid md-typeset">
+	<div class="center-align">
+		<img
+			class="top-home-img"
+			src="assets/images/kike_arnaiz_bg.webp"
+			draggable="false"
+			alt="Fondo de Kike Arnaiz"
+		/>
+	</div>
+	<div class="top-home-container">
+		<h1 class="slogan">{{config.site_description}}</h1>
+		<p class="home-description">
+			Kike Arnaiz, fotógrafo de viajes, ofrece una serie de cursos de fotografía
+			que compararemos en esta web. Además, ofrece un libro GRATUITO de
+			iniciación a la fotografía para saber algo más sobre su forma de explicar
+			y su metodología.
+		</p>
+
+		<div class="home-buttons">
+			<a
+				title="Get started"
+				class="md-button md-button--primary"
+				href="#libro-gratuito-kike-arnaiz"
+				onclick="event.preventDefault();event.stopPropagation(); window.scrollTo({ top: (document.getElementById('libro-gratuito-kike-arnaiz').getBoundingClientRect().top + window.scrollY - 80), behavior: 'smooth' })"
+			>
+				Ver libro GRATIS
+			</a>
+			<a
+				href="#list-courses"
+				onclick="event.preventDefault();event.stopPropagation(); window.scrollTo({ top: (document.getElementById('list-courses').getBoundingClientRect().top + window.scrollY - 80), behavior: 'smooth' })"
+				title="Installation"
+				id="home-secondary-button"
+				class="md-button home-secondary-button"
+			>
+				Ver cursos
+			</a>
+		</div>
+	</div>
+</section>
+
+{% endblock %}
