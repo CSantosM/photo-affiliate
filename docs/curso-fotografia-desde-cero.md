@@ -9,8 +9,9 @@ hide:
 
 Si estás **buscando aprender fotografía desde cero**, seguramente te has encontrado con el **curso de iniciación a la fotografía de Kike Arnaiz**. En esta opinión detallada, analizaremos si este curso es la opción adecuada para ti, basado en su contenido, metodología y resultados obtenidos por más de **15.000** alumnos satisfechos.
 
-
-<video width="640" height="480" src="https://opinioncursosfotografiakikearnaiz.com/assets/videos/iniciacion-fotografia.mp4" controls muted autoplay playsinline defer async loop></video>
+<div class="video-container">
+<video width="640" height="480" src="../../../../assets/videos/iniciacion-fotografia.webm" controls muted autoplay playsinline defer async loop poster="../../../../assets/images/iniciacion_video_poster.png"></video>
+</div>
 
 ## **¿Cuál es el Objetivo del Curso de Iniciación a la Fotografía de Kike Arnaiz?**
 

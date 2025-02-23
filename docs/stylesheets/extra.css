@@ -110,3 +110,7 @@
 .md-typeset h4 .headerlink {
 	display: none;
 }
+
+.video-container {
+	text-align: center;
+}
