@@ -40,6 +40,11 @@ plugins:
       minify_html: true
       minify_js: true
       minify_css: true
+      htmlmin_opts:
+        remove_comments: true
+      css_files:
+        - stylesheets/home.css
+        - stylesheets/extra.css
 # - blog:
 #     blog_dir: .
 #     blog_toc: false
