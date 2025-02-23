@@ -4,13 +4,11 @@ site_description: Opiniones sobre los cursos de Kike Arnaiz antes de comprar
 
 nav:
   - Inicio: index.md
-  # - Cursos de programación:
-  #   - index.md
-  #   - posts/curso-composicion-fotografia.md
   - ¿Quién es Kike Arnaiz?: kike-arnaiz.md
   - Iniciacion a la fotografia: curso-fotografia-desde-cero.md
   - Retoque fotográfico: curso-retoque-fotografico.md
   - Composicion fotográfica: curso-composicion-fotografia.md
+  - Fotografía retrato: curso-fotografia-retrato.md
   - Pack de cursos: pack-cursos-fotografia.md
 
 validation:
